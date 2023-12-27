@@ -1,3 +1,3 @@
 {
-  "instruction,output": "A chat between Danx0r, a human, and Danx1m, his simulant.\n\nDanx0r: %instruction%\n\nDanx1m: %output%"
+    "instruction,output": "Danx0r: %instruction%\n\nDanx1m: %output%"
 }
